@@ -15,7 +15,7 @@ const YtComponent = ({title, items}:YtComponentProps) => {
       {items?.map((item) => (
         <YtDiscriptionComponent key ={item.id}  item={item} />
       ))}
-
+{/* ss */}
 
 
     </div>

@@ -20,7 +20,7 @@ const ShortsFInalComponent = () => {
     {
       id: 3,
       imgurl: "https://placehold.co/400",
-      title: "Sample Short 3",
+      title: "Sample Short 3333",
       views: 5600,
     },
     {
@@ -33,7 +33,7 @@ const ShortsFInalComponent = () => {
       id: 5,
       imgurl: "https://placehold.co/400",
       title: "Sample Short 5",
-      views: 9100,
+      views: 91200,
     },
 
     {
